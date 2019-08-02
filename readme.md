@@ -25,7 +25,8 @@ __**Target Audience:**__ New hires/interns
 
 
 #### Useful Links
-
+| Thing     | Link    |
+| :------------- | :------------- |
 | GPA    | [https://software.intel.com/en-us/gpa](https://software.intel.com/en-us/gpa)  |
 | Team Trello | [https://trello.com/b/dKlDgzeG/intern-project](https://trello.com/b/dKlDgzeG/intern-project) |
 | Bottleneck List (GAME Wiki) | [https://wiki.ith.intel.com/pages/viewpage.action?pageId=1153106952](https://wiki.ith.intel.com/pages/viewpage.action?pageId=1153106952) |
