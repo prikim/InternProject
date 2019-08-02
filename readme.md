@@ -2,6 +2,8 @@
 
 A project for us interns to build our skills and hopefully create something useful.
 
+<insert epic game name here>
+
 ## Useful Information
 
 __**Idea:**__ Build a game with intentional bottlenecks, so new hires and interns can learn [GPA](https://software.intel.com/en-us/gpa) by testing it on our game.
@@ -14,9 +16,9 @@ __**Stretch Goal:**__ ~4 bottlenecks
 
 __**Target Audience:**__ New hires/interns
 
-### Game Settings
+## Game Settings
 
-**__Quality:__** Maximum
+**Quality:** Maximum
 
 **__Hardware:__** Gen 9
 
@@ -24,7 +26,7 @@ __**Target Audience:**__ New hires/interns
 
 
 
-#### Useful Links
+## Useful Links
 | Thing     | Link    |
 | :------------- | :------------- |
 | GPA    | [https://software.intel.com/en-us/gpa](https://software.intel.com/en-us/gpa)  |
